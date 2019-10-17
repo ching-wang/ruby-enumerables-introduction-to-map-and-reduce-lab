@@ -22,7 +22,6 @@ context of `Array`s. While `Hash`es also feature methods that follow the
 only on `Array`s.
 
 ## Define `map`
-
 As mentioned in the "Character of Enumerables," we need to visit each member of
 a collection. This is common to all Enumerable methods. In the case of `map`,
 we're going to produce a _new_ `Array` after "transforming" or applying "work"
